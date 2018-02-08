@@ -12,4 +12,3 @@
 ## Issues
 
 
-# Geolocation
